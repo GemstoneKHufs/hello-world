@@ -1,3 +1,4 @@
+# GemstoneK Kim, Hanguk University Foreign Studies, Computer Engineering
 # 정수 뒤집기 문제
 '''-------------------------------------------------------------------------'''
 # 입력문
